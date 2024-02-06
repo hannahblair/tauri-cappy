@@ -1,0 +1,22 @@
+{
+  "name": "cappy",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.5.2"
+  },
+  "devDependencies": {
+    "@gradio/client": "^0.10.1",
+    "@sveltejs/vite-plugin-svelte": "^3.0.1",
+    "@tauri-apps/cli": "^1.5.8",
+    "svelte": "^4.2.8",
+    "vite": "^5.0.0"
+  }
+}
