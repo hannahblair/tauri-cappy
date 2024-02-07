@@ -40,15 +40,16 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "menubar",
-        "height": 530,
-        "width": 400,
+        "title": "Cappy",
+        "height": 620,
+        "width": 320,
         "visible": false,
         "hiddenTitle": true,
         "decorations": false,
-        "focus": false,
+        "focus": true,
         "transparent": true
       }
-    ]
+    ],
+    "macOSPrivateApi": true
   }
 }
